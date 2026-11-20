@@ -1,35 +1,29 @@
-﻿# Lab 15: Responsive Web Pages and Media Queries
+# Lab 1: Git and GitHub Repository
 
-**Subject:** BCS554 - HTML and CSS Development Lab
+**Subject:** BCS554 - HTML & CSS Development Lab
+
+**Student Name:** Mohd Javed Khan
+
+**Roll Number:** Enter Your Roll Number
+
+**Course:** B.Tech Computer Science and Engineering
+
+**University:** Invertis University, Bareilly
 
 ## Objective
-To create responsive web pages using CSS media queries
-and responsive layout techniques.
+To learn about Git, GitHub, creating a GitHub account
+and creating a repository.
 
-## Tasks Covered
+## Tasks
+1. Create a GitHub account.
+2. Create a GitHub repository.
+3. Learn basic Git commands.
 
-### Task 1: Responsive Web Design
-Created layouts for desktop, tablet and mobile screens.
+## Files
+- index.html
+- style.css
+- images/screenshot.png
 
-### Task 2: CSS Media Queries
-Used CSS media queries to apply different styles
-according to screen width.
-
-### Task 3: Responsive Website Layout
-Created a responsive navigation bar and service cards
-using CSS Grid and Flexbox.
-
-## Technologies Used
-- HTML5
-- CSS3
-- VS Code
-- Web Browser
-
-## How to Run
-1. Open index.html in a web browser.
-2. Observe the responsive website layout.
-3. Resize the browser window.
-4. Check the desktop, tablet and mobile layouts.
-
-## Screenshot
-Screenshot is saved in the images folder.
+## Conclusion
+I learned the basics of Git and GitHub and understood
+how to create and manage a repository.
